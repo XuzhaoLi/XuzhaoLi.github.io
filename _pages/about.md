@@ -28,7 +28,7 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 
 # 🔥 News
 - **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
-- **2023.11**: 🏆 Obtain **Merit Student** (only 1 student obtain this honor of AC, BIT)!
+- **2023.11**: 🏆 Obtain **Merit Student Pacesetter** (only 1 student obtain this honor of AC, BIT)!
 - **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 
 # 🔬 Research Interests
@@ -59,11 +59,12 @@ Beijing Institute of Technology, Beijing
 * **China National Scholarship**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
 * **China National Scholarship**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
-* **First Class Academic Scholarship**, at Beijing Institute of Technology, 2020 - 2023
+* **First Prize Scholarship**, at Beijing Institute of Technology, 2020 - 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation, 2022
 * **National Second Prize**, Mathematics competition of Chinese College Students, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final, 2023
-* **Merit Student**, at Beijing Institute of Technology, 2023
+* **Merit Student Pacesetter**, at Beijing Institute of Technology, 2023
+* **Merit Student**, at Beijing Institute of Technology, 2021 - 2022
 * **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021
 
 # 🔗 For More Info
@@ -74,3 +75,8 @@ Beijing Institute of Technology, Beijing
 # 🤝 Collaborators
 
 - [**Xuchen Li**](https://xuchen-li.github.io/), B.E. student at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) and incoming Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/),  focusing on visual object tracking, visual language tracking and AI4Science.
+
+
+<body>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5evg28rubfp&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+</body>

@@ -27,9 +27,9 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 
 
 # 🔥 News
-- **2023.12**: 🏆 Obtain **China National Scholarship** (the highest honor for undergraduates in China, awarded to top 1% students of BIT)!
-- **2023.11**: 🏆 Obtain **Merit Student Cadre**!
-- **2022.12**: 🏆 Obtain **China National Scholarship** (the highest honor for undergraduates in China, awarded to top 1% students of BIT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2023.11**: 🏆 Obtain **Merit Student** (only 1 student obtain this honor of AC, BIT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 
 # 🔬 Research Interests
 
@@ -42,7 +42,7 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 <div><img src='images/BIT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
-Automation, Ranking 4/200 (2%)<br>
+Automation, Ranking 4/196 (2%)<br>
 School of Automation<br>
 Beijing Institute of Technology, Beijing
 </div>
@@ -52,17 +52,23 @@ Beijing Institute of Technology, Beijing
 # 💻 Research Experiences
 
 * **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**.
+* **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning & control at **[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)**, advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
 
 # 🎖 Honors and Awards
 
-* **China National Scholarship**, at BIT, by Ministry of Education of China, 2023
-* **China National Scholarship**, at BIT, by Ministry of Education of China, 2022
+* **China National Scholarship**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
+* **China National Scholarship**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
+* **First Class Academic Scholarship**, at Beijing Institute of Technology, 2020 - 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation, 2022
+* **National Second Prize**, Mathematics competition of Chinese College Students, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final, 2023
+* **Merit Student**, at Beijing Institute of Technology, 2023
+* **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021
 
 # 🔗 For More Info
 
+* **[School of Automation (AC, BIT)](https://ac.bit.edu.cn/)**
 * **[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)**
 
 # 🤝 Collaborators

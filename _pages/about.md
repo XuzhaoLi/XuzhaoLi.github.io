@@ -51,7 +51,7 @@ Beijing Institute of Technology, Beijing
 
 # 💻 Research Experiences
 
-* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**.
+* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
 * **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning & control at **[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)**, advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
 
 # 🎖 Honors and Awards

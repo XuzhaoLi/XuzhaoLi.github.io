@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/dsmd/bssds/833b4ca7f9014a0886d666bf043e0e8d.htm">Prof. Fang Deng</a>** (IEEE Senior Member).
+I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/dsmd/bssds/833b4ca7f9014a0886d666bf043e0e8d.htm">Prof. Fang Deng</a>**.
 
 Currently, I am a fourth-year undergraduate student majoring in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**.
 
@@ -42,7 +42,7 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 <div><img src='images/BIT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
-Automation, GPA ranking 3/196, Overall Ranking 4/196 (2%)<br>
+Automation, GPA: 3.9/4.0, ranking 3/196, Overall Ranking 4/196 (2%)<br>
 School of Automation<br>
 Beijing Institute of Technology, Beijing
 </div>

@@ -42,7 +42,7 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 <div><img src='images/BIT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
-Automation, Ranking 4/196 (2%)<br>
+Automation, GPA ranking 3/196, Overall Ranking 4/196 (2%)<br>
 School of Automation<br>
 Beijing Institute of Technology, Beijing
 </div>

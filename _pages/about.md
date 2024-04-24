@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="(https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm))">Prof. Fang Deng</a>**.
+I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="((https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm))">Prof. Fang Deng</a>**.
 
 Currently, I am a fourth-year undergraduate student majoring in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**.
 

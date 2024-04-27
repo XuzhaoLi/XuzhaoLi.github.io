@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="((https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm))">Prof. Fang Deng</a>**.
+I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>**.
 
 Currently, I am a fourth-year undergraduate student majoring in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**.
 
@@ -27,9 +27,10 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 
 
 # 🔥 News
-- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
-- **2023.11**: 🏆 Obtain **Merit Student Pacesetter** (only 1 student obtain this honor of AC, BIT)!
-- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 14 students obtain this honor of AC, BIT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 
 # 🔬 Research Interests
 
@@ -56,14 +57,15 @@ Beijing Institute of Technology, Beijing
 
 # 🎖 Honors and Awards
 
-* **China National Scholarship**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
-* **China National Scholarship**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
+* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
+* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
+* **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
+* **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
 * **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
 * **First Prize Scholarship**, at Beijing Institute of Technology, 2020 - 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation, 2022
 * **National Second Prize**, Mathematics competition of Chinese College Students, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final, 2023
-* **Merit Student Pacesetter**, at Beijing Institute of Technology, 2023
 * **Merit Student**, at Beijing Institute of Technology, 2021 - 2022
 * **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021
 

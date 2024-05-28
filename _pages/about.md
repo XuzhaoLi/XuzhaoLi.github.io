@@ -60,13 +60,6 @@ Beijing Institute of Technology, Beijing
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
-<!-- * **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
-* **First Prize Scholarship**, at Beijing Institute of Technology, 2020 - 2023
-* **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation, 2022
-* **National Second Prize**, Mathematics competition of Chinese College Students, 2022
-* **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final, 2023
-* **Merit Student**, at Beijing Institute of Technology, 2021 - 2022
-* **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021 -->
 
 # 🤝 Collaborators
 

@@ -23,10 +23,9 @@ I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. stud
 
 Currently, I am a fourth-year undergraduate student majoring in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**.
 
-I am grateful to grow up and study with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
+I am grateful to be growing up and studying with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 
 My research focuses on **Multi-agent Path Planning**, and **Trajectory Prediction**. If you are interested in my work or would like to collaborate, please feel free to contact me.
-
 
 # 🔥 News
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!

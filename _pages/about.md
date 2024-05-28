@@ -25,23 +25,20 @@ Currently, I am a fourth-year undergraduate student majoring in Automation at **
 
 I am grateful to grow up and study with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 
+My research focuses on **Multi-agent Path Planning**, and **Trajectory Prediction**. If you are interested in my work or would like to collaborate, please feel free to contact me.
+
 
 # 🔥 News
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
-- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 14 students obtain this honor of AC, BIT)!
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 - **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
 - **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 
-# 🔬 Research Interests
-
-- Multi-agent Path Planning
-- Trajectory Prediction
-
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='images/BIT.png' alt="sym" width="80"></div>
+<div><img src='../images/BIT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
 Automation, GPA: 3.9/4.0, ranking 3/196, Overall Ranking 4/196 (2%)<br>
@@ -63,18 +60,13 @@ Beijing Institute of Technology, Beijing
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
-* **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
+<!-- * **China National Encouragement Scholarship**, at BIT, by Ministry of Education of China, 2021
 * **First Prize Scholarship**, at Beijing Institute of Technology, 2020 - 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation, 2022
 * **National Second Prize**, Mathematics competition of Chinese College Students, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final, 2023
 * **Merit Student**, at Beijing Institute of Technology, 2021 - 2022
-* **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021
-
-# 🔗 For More Info
-
-* **[School of Automation (AC, BIT)](https://ac.bit.edu.cn/)**
-* **[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)**
+* **Outstanding Individual on Summer Social Practice**, at Beijing Institute of Technology, 2021 -->
 
 # 🤝 Collaborators
 

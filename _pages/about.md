@@ -27,6 +27,7 @@ I am grateful to grow up and study with my twin brother **<a href="https://xuche
 
 
 # 🔥 News
+- **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 14 students obtain this honor of AC, BIT)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 - **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
@@ -57,6 +58,7 @@ Beijing Institute of Technology, Beijing
 
 # 🎖 Honors and Awards
 
+* **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)**, ~8/15000, at Beijing Institute of Technology, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024

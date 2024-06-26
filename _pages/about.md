@@ -63,7 +63,7 @@ Beijing Institute of Technology, Beijing
 
 # 🤝 Collaborators
 
-- [**Xuchen Li**](https://xuchen-li.github.io/), B.E. student at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) and incoming Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/),  focusing on visual object tracking, visual language tracking and AI4Science.
+- [**Xuchen Li**](https://xuchen-li.github.io/), B.E. at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) and incoming Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual language tracking, multi-modal learning and large language model.
 
 My homepage visitors recorded from February, 2024. Thanks for attention.
 <body>

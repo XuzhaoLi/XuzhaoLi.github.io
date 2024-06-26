@@ -21,13 +21,14 @@ redirect_from:
 
 I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>** (IET Fellow).
 
-Currently, I am a fourth-year undergraduate student majoring in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**.
+Before that, I received my B.E. degree in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>** in Jun. 2024.
 
 I am grateful to be growing up and studying with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 
 My research focuses on **Multi-agent Path Planning**, and **Trajectory Prediction**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!

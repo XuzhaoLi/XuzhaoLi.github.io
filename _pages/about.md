@@ -47,7 +47,6 @@ Beijing Institute of Technology, Beijing
 </div>
 </div>
 
-
 # 💻 Research Experiences
 
 * **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
@@ -61,9 +60,12 @@ Beijing Institute of Technology, Beijing
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
 
+# 🔗 Services
+* Reviewer: ICPR 2024
+
 # 🤝 Collaborators
 
-- [**Xuchen Li**](https://xuchen-li.github.io/), B.E. at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) and incoming Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual language tracking, multi-modal learning and large language model.
+- [**Xuchen Li**](https://xuchen-li.github.io/), Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/) and B.E. at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/), focusing on visual language tracking, multi-modal learning and large language model.
 
 My homepage visitors recorded from February, 2024. Thanks for attention.
 <body>

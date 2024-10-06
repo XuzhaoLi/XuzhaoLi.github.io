@@ -19,15 +19,16 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, an incoming M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>** (IET Fellow).
+I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, a first-year M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>**, supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>**.
 
 Before that, I received my B.E. degree in Automation at **<a href="https://ac.bit.edu.cn/">School of Automation (AC)</a>** from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>** in Jun. 2024.
 
 I am grateful to be growing up and studying with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 
-My research focuses on **Multi-agent Path Planning**, and **Trajectory Prediction**. If you are interested in my work or would like to collaborate, please feel free to contact me.
+My research focuses on **Multi-agent Path Planning**, **Trajectory Prediction** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.09**: 📣 Start my M.S. life at **Beijing Institute of Technology** (BIT), which is located in Haidian District, Beijing.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
@@ -40,17 +41,42 @@ My research focuses on **Multi-agent Path Planning**, and **Trajectory Predictio
 <div class='school-box'>
 <div><img src='../images/BIT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020.09 - now, Undergraduate student<br>
+2024.09 - now, M.S. student<br>
+Pattern Recognition and Intelligent System<br>
+School of Automation<br>
+<b>Beijing Institute of Technology</b>, Beijing
+</div>
+</div>
+<div class='school-box'>
+<div><img src='../images/BIT.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2020.09 - 2024.07, Undergraduate student<br>
 Automation, GPA: 3.9/4.0, ranking 3/196, Overall Ranking 4/196 (2%)<br>
 School of Automation<br>
-Beijing Institute of Technology, Beijing
+<b>Beijing Institute of Technology</b>, Beijing
 </div>
 </div>
+
 
 # 💻 Research Experiences
 
 * **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
 * **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning & control at **[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)**, advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
+
+# 📝 Publications
+
+## ☑️ Ongoing
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**
+
+[Shiyu Hu](https://huuuuusy.github.io/)\*, [Xuchen Li](https://xuchen-li.github.io/)\*, ***Xuzhao Li***, Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)
+
+Submitted to a CAAI-A conference, Under Review<br>
+📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
@@ -62,10 +88,6 @@ Beijing Institute of Technology, Beijing
 
 # 🔗 Services
 * Reviewer: ICPR 2024
-
-# 🤝 Collaborators
-
-- [**Xuchen Li**](https://xuchen-li.github.io/), Ph.D. student at the  [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/) and B.E. at [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/), focusing on visual language tracking, multi-modal learning and large language model.
 
 My homepage visitors recorded from February, 2024. Thanks for attention.
 <body>

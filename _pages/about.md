@@ -85,6 +85,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
+* **Key project of undergraduate graduation project (thesis) (<font face="楷体">本科生毕业设计（论文）重点项目</font>)**, at Beijing Institute of Technology, 2024
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
 
 # 🔗 Services

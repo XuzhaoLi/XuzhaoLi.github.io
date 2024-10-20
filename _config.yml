@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuzhao Li"
   avatar           : "images/img.jpg"
-  bio              : "First-year M.S. student at Beijing Institute of Technology (BIT)."
+  bio              : "First-year M.S. student at Beijing Institute of Technology (BIT)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "1359623901@qq.com"
+  email            : "xuzhaoli2024@bit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

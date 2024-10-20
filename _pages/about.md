@@ -29,13 +29,13 @@ My research focuses on **Multi-agent Path Planning**, **Trajectory Prediction** 
 
 # 🔥 News
 - **2024.09**: 📣 Start my M.S. life at **Beijing Institute of Technology** (BIT), which is located in Haidian District, Beijing.
-- **2024.08**: 🏆 Obtain **Key project of undergraduate graduation project (thesis) (<font face="楷体">本科生毕业设计（论文）重点项目</font>)** (only 14 students obtain this honor of AC, BIT)!
+- **2024.08**: 🏆 Obtain **Key Project of Bachelor’s Degree Thesis (<font face="楷体">学士学位论文重点项目</font>)** (only 14 students obtain this honor of AC, BIT)!
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
-- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/196 (0.5%)** (Top 2%, the highest honor for undergraduates in China)!
 - **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
-- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **4/255 (1.5%)** (Top 2%, the highest honor for undergraduates in China)!
 
 # 📖 Educations
 
@@ -72,7 +72,6 @@ School of Automation<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**
-
 [Shiyu Hu](https://huuuuusy.github.io/)\*, [Xuchen Li](https://xuchen-li.github.io/)\*, ***Xuzhao Li***, Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)
 
 Submitted to a CAAI-A conference, Under Review<br>
@@ -86,7 +85,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/196 (0.5%), at BIT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 4/255 (1.5%), at BIT, by Ministry of Education of China, 2022
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BIT, by Beijing Municipal Education Commission, 2024
-* **Key project of undergraduate graduation project (thesis) (<font face="楷体">本科生毕业设计（论文）重点项目</font>)**, at Beijing Institute of Technology, 2024
+* **Key Project of Bachelor’s Degree Thesis (<font face="楷体">学士学位论文重点项目</font>)**, at Beijing Institute of Technology, 2024
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
 
 # 🔗 Services

@@ -62,7 +62,7 @@ School of Automation<br>
 
 # 💻 Research Experiences
 
-* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="E:\mdpic\about\CASIA.png" style="width: 9em;"/></a>), advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
+* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
 * **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning & control at **[Beijing Institute of Technology](https://english.bit.edu.cn/)** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
 
 # 📝 Publications

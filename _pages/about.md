@@ -63,7 +63,7 @@ School of Automation<br>
 # 💻 Research Experiences
 
 * **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
-* **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning & control at **[Beijing Institute of Technology](https://english.bit.edu.cn/)** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
+* **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning and control at **[Beijing Institute of Technology](https://english.bit.edu.cn/)** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
 
 # 📝 Publications
 
@@ -89,7 +89,9 @@ Submitted to a CAAI-A conference, Under Review<br>
 * **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)**, at Beijing Institute of Technology, 2023
 
 # 🔗 Services
-* Reviewer: ICPR 2024
+* Reviewer: 
+
+​		International Conference on Pattern Recognition (ICPR)
 
 <body>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5246p4iiopd&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>

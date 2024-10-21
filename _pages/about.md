@@ -51,7 +51,7 @@ School of Automation<br>
 <div class='school-box'>
 <div><img src='../images/BIT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020.09 - 2024.07, Undergraduate student<br>
+2020.09 - 2024.07, B.E. degree<br>
 Automation, GPA: 3.9/4.0, ranking 3/196, Overall Ranking 4/196 (2%)<br>
 School of Automation<br>
 <b>Beijing Institute of Technology</b>, Beijing

@@ -21,7 +21,7 @@ redirect_from:
 
 I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, a first-year M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>**.
 
-Before that, I received my B.E. degree in Automation with overall ranking <b>3/196 (1.53%)</b> at **<a href="https://ac.bit.edu.cn/">School of Automation</a>** (AC <a href="https://ac.bit.edu.cn/"><img src="../images/BITAC.png" style="width: 5em;"/></a>) from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>) in Jun. 2024.
+Before that, I received my B.E. degree in Automation with ranking <b>3/196 (1.53%)</b> at **<a href="https://ac.bit.edu.cn/">School of Automation</a>** (AC <a href="https://ac.bit.edu.cn/"><img src="../images/BITAC.png" style="width: 5em;"/></a>) from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>) in Jun. 2024.
 
 I am grateful to be growing up and studying with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 

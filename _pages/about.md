@@ -72,7 +72,7 @@ School of Automation<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**
-[Shiyu Hu](https://huuuuusy.github.io/)\*, [Xuchen Li](https://xuchen-li.github.io/)\*, ***Xuzhao Li***, Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (\*Equal Contributions)
+[Shiyu Hu](https://huuuuusy.github.io/)\*, [Xuchen Li](https://xuchen-li.github.io/)\*, ***Xuzhao Li***, Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (\*Equal Contributions)<br>
   [[**Preprint**](https://arxiv.org/abs/2410.15270)]
   [[**PDF**](https://xuzhaoli.github.io/files/FIOVA.pdf)]
   [[**Website**](https://huuuuusy.github.io/fiova/)]

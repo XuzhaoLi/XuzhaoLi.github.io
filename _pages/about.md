@@ -40,7 +40,7 @@ My research focuses on **Multi-agent Path Planning**, **Trajectory Prediction** 
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='../images/BIT.jpg' alt="sym" width="80"></div>
+<div><a href="https://english.bit.edu.cn/"><img src='../images/BIT.jpg' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2024.09 - now, M.S. student<br>
 Pattern Recognition and Intelligent System<br>
@@ -49,7 +49,7 @@ School of Automation<br>
 </div>
 </div>
 <div class='school-box'>
-<div><img src='../images/BIT.jpg' alt="sym" width="80"></div>
+<div><a href="https://english.bit.edu.cn/"><img src='../images/BIT.jpg' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.07, B.E. degree<br>
 Automation, GPA: 3.9/4.0, ranking 3/196 (1.53%)<br>
@@ -57,6 +57,7 @@ School of Automation<br>
 <b>Beijing Institute of Technology</b>, Beijing
 </div>
 </div>
+
 
 
 

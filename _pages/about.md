@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, a first-year M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>**.
+I am **Xuzhao Li <font face="楷体">(李旭钊)</font>**, a first-year M.S. student at **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT), supervised by **<a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a>**.
 
-Before that, I received my B.E. degree in Automation with ranking <b>3/196 (1.53%)</b> at **<a href="https://ac.bit.edu.cn/">School of Automation</a>** (AC <a href="https://ac.bit.edu.cn/"><img src="../images/BITAC.png" style="width: 5em;"/></a>) from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>) in Jun. 2024. During my time there, I was awarded the highest honor at BIT, the **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)**, as well as **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
+Before that, I received my B.E. degree in Automation with ranking <b>3/196 (1.53%)</b> at **<a href="https://ac.bit.edu.cn/">School of Automation</a>** (AC) from **<a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>** (BIT) in Jun. 2024. During my time there, I was awarded the highest honor at BIT, the **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)**, as well as **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
 
 I am grateful to be growing up and studying with my twin brother **<a href="https://xuchen-li.github.io/">Xuchen Li</a>**, which is a truly unique and special experience for me.
 
@@ -41,7 +41,7 @@ My research focuses on **Multi-agent Path Planning**, **Trajectory Prediction** 
 # 📖 Educations
 
 <div class='school-box'>
-<div><a href="https://english.bit.edu.cn/"><img src='../images/BIT.jpg' alt="sym" width="80"></a></div>
+<div><img src='../images/BIT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024.09 - now, M.S. student<br>
 Pattern Recognition and Intelligent System<br>
@@ -50,7 +50,7 @@ School of Automation<br>
 </div>
 </div>
 <div class='school-box'>
-<div><a href="https://english.bit.edu.cn/"><img src='../images/BIT.jpg' alt="sym" width="80"></a></div>
+<div><img src='../images/BIT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.07, B.E. degree<br>
 Automation, GPA: 3.9/4.0, ranking 3/196 (1.53%)<br>
@@ -62,10 +62,11 @@ School of Automation<br>
 
 
 
+
 # 💻 Research Experiences
 
-* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
-* **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning and control at **[Beijing Institute of Technology](https://english.bit.edu.cn/)** (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.png" style="width: 6em;"/></a>), advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
+* **2023.05 - 2023.10**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA), advised by Prof. [**Hongbin Liu**](https://people.ucas.edu.cn/~liuhongbin).
+* **2023.03 - 2023.04**: Research intern on Event-triggered perception, learning and control at **[Beijing Institute of Technology](https://english.bit.edu.cn/)** (BIT), advised by Prof. [**Dawei Shi**](https://ac.bit.edu.cn/szdw/jsml/zngzyydkzyjs1/1c32a72eed8b4974a4a7f5a5c60aa621.htm).
 
 # 📝 Publications
 

@@ -108,7 +108,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 <p>
   <center>
     <font>
-        <br>&copy; Xuzhao Li | Last updated: Oct. 2024
+        <br>&copy; Xuzhao Li | Last updated: Nov. 2024
     </font>
   </center>
 </p>
